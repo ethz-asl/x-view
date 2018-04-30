@@ -1,4 +1,4 @@
 # X-View
 Semantic global localization, coming soon.
 
-Scheduled release: March 2018.
+Scheduled release: May 2018 (updated).
